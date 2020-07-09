@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./cover.png">
+  <img src="./andrecoelho.dev.png">
 </p>
