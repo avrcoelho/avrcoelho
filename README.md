@@ -1,3 +1,2 @@
-<p align="center">
-  <img src="avrcoelho/andrecoelho.dev.png">
-</p>
+# andrecoelho.dev
+## Fullstack - Developer
