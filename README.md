@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/avrcoelho/avrcoelho/master/andrecoelho.png" alt="andrecoelho.dev" />
+  <img src="https://raw.githubusercontent.com/avrcoelho/avrcoelho/master/andrecoelho.png" style="width: 100%; max-width: 500px"
+  alt="andrecoelho.dev" />
 </p>
 <p align="center">
 🚀 Javascript | Typescript | ReactJS | React Native | NodeJS | SQL | NoSQL | HTML | CSS | PWA | GIT
