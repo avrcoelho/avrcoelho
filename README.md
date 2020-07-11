@@ -1,7 +1,6 @@
-<h1 align="center">André Coelho</h1>
-<p align="center">FULLSTACK DEVELOPER</p>
-<p align="center"></p>
-<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/avrcoelho/avrcoelho/master/andrecoelho.png" alt="andrecoelho.dev" />
+</p>
 <p align="center">
 🚀 Javascript | Typescript | ReactJS | React Native | NodeJS | SQL | NoSQL | HTML | CSS | PWA | GIT
 </p>
