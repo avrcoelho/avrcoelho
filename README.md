@@ -3,7 +3,7 @@
   alt="andrecoelho.dev" />
 </p>
 <p align="center">
-🚀 Javascript | Typescript | ReactJS | React Native | NodeJS | GraphQL | SQL | NoSQL | HTML | CSS | GIT
+🚀 Javascript | Typescript | ReactJS | React Native | NodeJS | ElectronJS | GraphQL | SQL | NoSQL | HTML | CSS | GIT
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/andrevrcoelho" alt="LinkedIn">
