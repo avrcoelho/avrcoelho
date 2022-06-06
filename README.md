@@ -1,5 +1,3 @@
-[![Sponsor](https://img.shields.io/badge/Sponsor-eee?style=for-the-badge&logo=github-sponsors&link=https://github.com/sponsors/avrcoelho)](https://github.com/sponsors/avrcoelho)
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/avrcoelho/avrcoelho/master/andrecoelho.dev.png" width="500"
   alt="andrecoelho.dev" />
