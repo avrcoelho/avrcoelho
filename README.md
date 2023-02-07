@@ -32,6 +32,6 @@
 
 Hi!
 
-I’m André Coelho, Senior Software Engineer with a degree in Computer Science, focused on developing quality and performance applications. My favorite stack is JavaScript, Typescript, ReactJS, React Native, NodeJS and other technologies in the JavaScript ecosystem.
+I’m **André Coelho**, Senior Software Engineer with a degree in Computer Science, focused on developing quality and performance applications. My favorite stack is JavaScript, Typescript, ReactJS, React Native, NodeJS and other technologies in the JavaScript ecosystem.
 
 I love developing applications and helping the community 🚀 
