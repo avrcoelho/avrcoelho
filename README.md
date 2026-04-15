@@ -32,9 +32,10 @@
    </a>
 </p>
 
+Senior Software Engineer with over 10 years of experience and a degree in Computer Science, specialized in building scalable, high-performance applications with JavaScript, TypeScript, React, React Native, Node.js and other technologies of JavaScript ecosystem.
 
-Hi!
+I focus on frontend architecture, working with microfrontends, BFFs, and modern monorepo strategies to deliver maintainable and efficient systems. I care deeply about code quality, testing, performance, and observability to ensure reliable applications at scale.
 
-I’m **André Coelho**, Senior Software Engineer with a degree in Computer Science, focused on developing quality and performance applications. My favorite stack is JavaScript, Typescript, ReactJS, React Native, NodeJS and other technologies in the JavaScript ecosystem.
+I’ve contributed to design systems, improved developer experience, and worked across web, mobile (React Native), and cloud environments.
 
-I love developing applications and helping the community 🚀 
+Beyond coding, I enjoy mentoring engineers, defining best practices, and helping teams build better products through strong engineering culture.
