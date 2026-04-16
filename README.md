@@ -32,10 +32,12 @@
    </a>
 </p>
 
-Senior Software Engineer with 10+ years of experience and a degree in Computer Science, specializing in building scalable, high-performance applications using JavaScript, TypeScript, React, React Native, and Node.js.
+Senior Software Engineer with 10+ years of experience and a degree in Computer Science, specializing in building scalable, high-performance applications using JavaScript, TypeScript, React, React Native and Node.js.
 
 I focus on frontend architecture, leveraging microfrontends, BFFs, and modern monorepo strategies to deliver maintainable, efficient, and scalable systems. I prioritize code quality, automated testing, performance, and observability to ensure reliability at scale.
 
 I contribute to design systems, enhance developer experience, and work across web, mobile (React Native), and cloud environments.
 
 Beyond hands-on development, I mentor engineers, establish best practices, and help teams deliver better products through a strong and pragmatic engineering culture.
+
+If you'd like to know more about me, let's stay in touch!
