@@ -3,7 +3,7 @@
       alt="andrecoelho.dev" />
 </p>
 <p align="center">
-   🚀 Javascript | Typescript | ReactJS | React Native | NodeJS | ElectronJS | GraphQL | SQL | NoSQL | HTML | CSS | GIT | Open Source
+   🚀 Javascript | Typescript | ReactJS | React Native | NodeJS | Open Source
 </p>
 <p align="center">
    <a href="https://instagram.com/andrevrcoelho">
