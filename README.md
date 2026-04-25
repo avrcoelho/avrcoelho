@@ -3,7 +3,7 @@
       alt="andrecoelho.dev" />
 </p>
 <p align="center">
-   🚀 Javascript | Typescript | ReactJS | React Native | NodeJS | Open Source
+   🚀 Javascript | Typescript | ReactJS | React Native | NodeJS | AI | Open Source
 </p>
 <p align="center">
    <a href="https://instagram.com/andrevrcoelho">
@@ -32,7 +32,7 @@
    </a>
 </p>
 
-Senior Software Engineer with 10+ years of experience and a degree in Computer Science, specializing in building scalable, high-performance applications using JavaScript, TypeScript, React, React Native and Node.js.
+Senior Software Engineer with 10+ years of experience and a degree in Computer Science, specializing in building scalable, high-performance applications using JavaScript, TypeScript, React, React Native, Node.js and AI
 
 I focus on frontend architecture, leveraging microfrontends, BFFs, and modern monorepo strategies to deliver maintainable, efficient, and scalable systems. I prioritize code quality, automated testing, performance, and observability to ensure reliability at scale.
 
