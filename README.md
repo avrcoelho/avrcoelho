@@ -32,12 +32,14 @@
    </a>
 </p>
 
-Senior Software Engineer with 10+ years of experience and a degree in Computer Science, specializing in building scalable, high-performance applications using JavaScript, TypeScript, React, React Native, Node.js and AI
+Senior Software Engineer with 10+ years of experience and a degree in Computer Science, specializing in building scalable, high-performance applications across web and mobile platforms using JavaScript, TypeScript, React, React Native, and Node.js.
 
-I focus on frontend architecture, leveraging microfrontends, BFFs, and modern monorepo strategies to deliver maintainable, efficient, and scalable systems. I prioritize code quality, automated testing, performance, and observability to ensure reliability at scale.
+I focus on frontend architecture and platform engineering, designing scalable solutions with microfrontends, BFFs, design systems, and modern monorepo strategies. Throughout my career, I have helped teams improve developer experience, accelerate delivery cycles, and build maintainable systems that scale across products and squads.
 
-I contribute to design systems, enhance developer experience, and work across web, mobile (React Native), and cloud environments.
+My experience spans complex frontend ecosystems, cross-platform mobile applications, cloud environments, and observability practices, always with a strong emphasis on code quality, performance, accessibility, automated testing, and reliability.
 
-Beyond hands-on development, I mentor engineers, establish best practices, and help teams deliver better products through a strong and pragmatic engineering culture.
+Beyond hands-on development, I contribute by driving architectural decisions, establishing engineering standards, mentoring developers, and fostering a pragmatic and collaborative engineering culture.
+
+I enjoy solving complex technical challenges, improving how teams build software, and creating products that deliver real impact for users and businesses.
 
 If you'd like to know more about me, let's stay in touch!
