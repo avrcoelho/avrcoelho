@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://raw.githubusercontent.com/avrcoelho/avrcoelho/master/cover.png" 
+   <img src="https://raw.githubusercontent.com/avrcoelho/avrcoelho/refs/heads/master/cover.png" 
       alt="andrecoelho.dev" />
 </p>
 <p align="center">
