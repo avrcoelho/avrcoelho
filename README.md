@@ -12,9 +12,6 @@
    <a href="https://www.linkedin.com/in/andrevrcoelho" alt="LinkedIn">
       <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
    </a>
-   <a href="https://www.youtube.com/channel/UC0rPdx8px5bkgD7bXQpLMwQ/featured">
-      <img src="https://img.shields.io/badge/YouTube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC0rPdx8px5bkgD7bXQpLMwQ/featured" alt="YouTube" />
-   </a>
    <a href="https://npmjs.com/~avrcoelho/" alt="npm">
       <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=NPM&logoColor=white" />
    </a>
